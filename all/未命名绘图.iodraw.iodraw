@@ -19,6 +19,9 @@
         <mxCell id="CCLl84ab2HtnuwOPK3lj-9" value="创建任务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="400" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="CCLl84ab2HtnuwOPK3lj-10" value="删除任务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
