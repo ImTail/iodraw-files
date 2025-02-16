@@ -16,15 +16,6 @@
         <mxCell id="CCLl84ab2HtnuwOPK3lj-8" value="图像管理器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="140" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CCLl84ab2HtnuwOPK3lj-9" value="创建任务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="240" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="CCLl84ab2HtnuwOPK3lj-10" value="删除任务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="240" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="CCLl84ab2HtnuwOPK3lj-11" value="修改任务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="240" width="70" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="CCLl84ab2HtnuwOPK3lj-12" value="地图管理器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="690" y="140" width="70" height="30" as="geometry" />
         </mxCell>
