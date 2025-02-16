@@ -7,9 +7,6 @@
         <mxCell id="CCLl84ab2HtnuwOPK3lj-1" value="地面站" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="371" y="50" width="86" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="CCLl84ab2HtnuwOPK3lj-5" value="数据管理器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="379" y="140" width="70" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="CCLl84ab2HtnuwOPK3lj-7" value="任务管理器&lt;div&gt;===属性===&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;===行为===&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;添加任务&lt;/div&gt;&lt;div&gt;删除任务&lt;/div&gt;&lt;div&gt;修改任务&lt;/div&gt;&lt;div&gt;选择任务&lt;/div&gt;&lt;div&gt;运行任务&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="140" width="70" height="330" as="geometry" />
         </mxCell>
@@ -18,6 +15,9 @@
         </mxCell>
         <mxCell id="CCLl84ab2HtnuwOPK3lj-12" value="地图管理器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="690" y="140" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CCLl84ab2HtnuwOPK3lj-13" value="任务管理器&lt;div&gt;===属性===&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;===行为===&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;添加任务&lt;/div&gt;&lt;div&gt;删除任务&lt;/div&gt;&lt;div&gt;修改任务&lt;/div&gt;&lt;div&gt;选择任务&lt;/div&gt;&lt;div&gt;运行任务&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="150" width="70" height="330" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
