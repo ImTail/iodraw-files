@@ -17,13 +17,18 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UFJ5-eNdobS9SyVqZAks-4" value="LORA" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="340" y="370" width="120" height="60" as="geometry" />
+          <mxGeometry x="150" y="380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4-7nXLufEN0A9YsIeyxN-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=5;" edge="1" parent="1" source="UFJ5-eNdobS9SyVqZAks-5" target="UFJ5-eNdobS9SyVqZAks-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4-7nXLufEN0A9YsIeyxN-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="UFJ5-eNdobS9SyVqZAks-5" target="UFJ5-eNdobS9SyVqZAks-3">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="400" y="520" />
+              <mxPoint x="590" y="520" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="UFJ5-eNdobS9SyVqZAks-5" value="LORA" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="340" y="555" width="120" height="60" as="geometry" />
