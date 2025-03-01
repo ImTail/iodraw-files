@@ -19,11 +19,11 @@
         <mxCell id="UFJ5-eNdobS9SyVqZAks-5" value="LORA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="555" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UFJ5-eNdobS9SyVqZAks-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="740" width="120" height="60" as="geometry" />
+        <mxCell id="UFJ5-eNdobS9SyVqZAks-6" value="PC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="740" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UFJ5-eNdobS9SyVqZAks-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="740" width="120" height="60" as="geometry" />
+          <mxGeometry x="490" y="740" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
