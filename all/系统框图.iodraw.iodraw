@@ -19,17 +19,19 @@
         <mxCell id="4-7nXLufEN0A9YsIeyxN-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UFJ5-eNdobS9SyVqZAks-5" target="UFJ5-eNdobS9SyVqZAks-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4-7nXLufEN0A9YsIeyxN-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UFJ5-eNdobS9SyVqZAks-5" target="UFJ5-eNdobS9SyVqZAks-7">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="UFJ5-eNdobS9SyVqZAks-5" value="LORA" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="340" y="555" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UFJ5-eNdobS9SyVqZAks-6" value="PC" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="150" y="740" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="4-7nXLufEN0A9YsIeyxN-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UFJ5-eNdobS9SyVqZAks-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="590" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="UFJ5-eNdobS9SyVqZAks-7" value="RTK基站" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="490" y="740" width="120" height="60" as="geometry" />
+          <mxGeometry x="530" y="740" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
