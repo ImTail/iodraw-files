@@ -16,7 +16,7 @@
         <mxCell id="UFJ5-eNdobS9SyVqZAks-4" value="LORA" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="340" y="370" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4-7nXLufEN0A9YsIeyxN-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UFJ5-eNdobS9SyVqZAks-5" target="4-7nXLufEN0A9YsIeyxN-1">
+        <mxCell id="4-7nXLufEN0A9YsIeyxN-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UFJ5-eNdobS9SyVqZAks-5" target="UFJ5-eNdobS9SyVqZAks-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UFJ5-eNdobS9SyVqZAks-5" value="LORA" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -27,9 +27,6 @@
         </mxCell>
         <mxCell id="UFJ5-eNdobS9SyVqZAks-7" value="RTK基站" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="490" y="740" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="4-7nXLufEN0A9YsIeyxN-1" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4;arrowSize=0.4;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="360" y="695" width="80" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
