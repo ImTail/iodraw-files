@@ -16,8 +16,8 @@
         <mxCell id="lcM-BsOvDYwMTH3citxI-5" value="任务开始按钮" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="293" y="320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lcM-BsOvDYwMTH3citxI-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="410" width="120" height="60" as="geometry" />
+        <mxCell id="lcM-BsOvDYwMTH3citxI-6" value="任务执行" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="293" y="410" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
