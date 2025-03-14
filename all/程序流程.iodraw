@@ -11,7 +11,7 @@
           <mxGeometry x="293" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lcM-BsOvDYwMTH3citxI-3" value="创建任务按钮" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="293" y="200" width="120" height="60" as="geometry" />
+          <mxGeometry x="293" y="320" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
