@@ -11,7 +11,7 @@
           <mxGeometry x="130" y="140" width="70" height="250" as="geometry" />
         </mxCell>
         <mxCell id="CCLl84ab2HtnuwOPK3lj-8" value="主窗口管理器&lt;div&gt;===属性===&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;===行为===&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="400" y="130" width="80" height="250" as="geometry" />
+          <mxGeometry x="400" y="130" width="70" height="250" as="geometry" />
         </mxCell>
         <mxCell id="CCLl84ab2HtnuwOPK3lj-12" value="地图管理器" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="690" y="140" width="70" height="30" as="geometry" />
@@ -26,7 +26,7 @@
           <mxGeometry x="130" y="680" width="70" height="390" as="geometry" />
         </mxCell>
         <mxCell id="CCLl84ab2HtnuwOPK3lj-17" value="串口管理器&lt;div&gt;===属性===&lt;/div&gt;&lt;div&gt;缓冲区&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;===行为===&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;查询串口&lt;/div&gt;&lt;div&gt;选择串口&lt;/div&gt;&lt;div&gt;连接串口&lt;/div&gt;&lt;div&gt;接收消息&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="414" y="420" width="70" height="250" as="geometry" />
+          <mxGeometry x="400" y="420" width="70" height="250" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
