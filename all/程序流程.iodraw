@@ -4,14 +4,23 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="lcM-BsOvDYwMTH3citxI-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lcM-BsOvDYwMTH3citxI-1" target="lcM-BsOvDYwMTH3citxI-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="lcM-BsOvDYwMTH3citxI-1" value="程序开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="293" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lcM-BsOvDYwMTH3citxI-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lcM-BsOvDYwMTH3citxI-2" target="lcM-BsOvDYwMTH3citxI-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lcM-BsOvDYwMTH3citxI-2" value="选择考试项目" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="293" y="140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lcM-BsOvDYwMTH3citxI-3" value="创建任务按钮" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="293" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lcM-BsOvDYwMTH3citxI-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lcM-BsOvDYwMTH3citxI-5" target="lcM-BsOvDYwMTH3citxI-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lcM-BsOvDYwMTH3citxI-5" value="任务开始按钮" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="293" y="320" width="120" height="60" as="geometry" />
