@@ -133,7 +133,7 @@
         <mxCell id="i9M5i_NloY1BFhhzf5Hy-33" value="按钮/定时/模式等动作" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="890" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="i9M5i_NloY1BFhhzf5Hy-44" value="" style="rounded=0;whiteSpace=wrap;html=1;opacity=70;" vertex="1" parent="1">
+        <mxCell id="i9M5i_NloY1BFhhzf5Hy-44" value="" style="rounded=0;whiteSpace=wrap;html=1;opacity=80;" vertex="1" parent="1">
           <mxGeometry x="50" y="130" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
