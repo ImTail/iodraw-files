@@ -70,6 +70,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="i9M5i_NloY1BFhhzf5Hy-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="i9M5i_NloY1BFhhzf5Hy-19" target="i9M5i_NloY1BFhhzf5Hy-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="i9M5i_NloY1BFhhzf5Hy-19" value="蓝牙模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="510" width="120" height="60" as="geometry" />
         </mxCell>
@@ -81,10 +84,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="i9M5i_NloY1BFhhzf5Hy-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" source="i9M5i_NloY1BFhhzf5Hy-24" target="i9M5i_NloY1BFhhzf5Hy-19">
+        <mxCell id="i9M5i_NloY1BFhhzf5Hy-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" source="i9M5i_NloY1BFhhzf5Hy-24" target="i9M5i_NloY1BFhhzf5Hy-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="i9M5i_NloY1BFhhzf5Hy-39" value="蓝牙传输" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="i9M5i_NloY1BFhhzf5Hy-37">
+        <mxCell id="i9M5i_NloY1BFhhzf5Hy-39" value="控制指令" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="i9M5i_NloY1BFhhzf5Hy-37">
           <mxGeometry x="-0.0588" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
