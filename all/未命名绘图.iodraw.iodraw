@@ -15,7 +15,7 @@
         </mxCell>
         <mxCell id="i9M5i_NloY1BFhhzf5Hy-18" value="光敏模拟/数字参考消息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="i9M5i_NloY1BFhhzf5Hy-6" vertex="1" connectable="0">
           <mxGeometry x="-0.0167" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-24" y="-13" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="i9M5i_NloY1BFhhzf5Hy-2" value="光敏模块" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -30,9 +30,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="i9M5i_NloY1BFhhzf5Hy-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="i9M5i_NloY1BFhhzf5Hy-3" target="i9M5i_NloY1BFhhzf5Hy-8" edge="1">
+        <mxCell id="i9M5i_NloY1BFhhzf5Hy-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="i9M5i_NloY1BFhhzf5Hy-3" target="i9M5i_NloY1BFhhzf5Hy-8" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="420" y="375" />
               <mxPoint x="500" y="375" />
               <mxPoint x="500" y="305" />
             </Array>
