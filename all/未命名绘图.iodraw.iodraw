@@ -7,7 +7,7 @@
         <mxCell id="i9M5i_NloY1BFhhzf5Hy-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="i9M5i_NloY1BFhhzf5Hy-2" target="i9M5i_NloY1BFhhzf5Hy-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="i9M5i_NloY1BFhhzf5Hy-18" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="i9M5i_NloY1BFhhzf5Hy-6">
+        <mxCell id="i9M5i_NloY1BFhhzf5Hy-18" value="光敏模拟/数字参考消息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="i9M5i_NloY1BFhhzf5Hy-6">
           <mxGeometry x="-0.0167" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
