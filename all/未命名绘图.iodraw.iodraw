@@ -18,14 +18,11 @@
         <mxCell id="i9M5i_NloY1BFhhzf5Hy-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="i9M5i_NloY1BFhhzf5Hy-3" target="i9M5i_NloY1BFhhzf5Hy-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="i9M5i_NloY1BFhhzf5Hy-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="i9M5i_NloY1BFhhzf5Hy-3" target="i9M5i_NloY1BFhhzf5Hy-11">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="i9M5i_NloY1BFhhzf5Hy-3" value="STM32" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="i9M5i_NloY1BFhhzf5Hy-7" value="电机" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="180" width="120" height="60" as="geometry" />
+          <mxGeometry x="80" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="i9M5i_NloY1BFhhzf5Hy-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="i9M5i_NloY1BFhhzf5Hy-8" target="i9M5i_NloY1BFhhzf5Hy-3">
           <mxGeometry relative="1" as="geometry" />
@@ -37,7 +34,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="i9M5i_NloY1BFhhzf5Hy-11" value="升压驱动" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="410" width="120" height="60" as="geometry" />
+          <mxGeometry x="80" y="490" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
