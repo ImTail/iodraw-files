@@ -7,7 +7,7 @@
         <mxCell id="i9M5i_NloY1BFhhzf5Hy-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="i9M5i_NloY1BFhhzf5Hy-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="i9M5i_NloY1BFhhzf5Hy-3" value="STM32" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="360" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
