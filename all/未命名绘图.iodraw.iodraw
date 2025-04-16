@@ -162,6 +162,9 @@
         <mxCell id="i9M5i_NloY1BFhhzf5Hy-47" value="上位机" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=40;" parent="1" vertex="1">
           <mxGeometry x="70" y="730" width="130" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="20-5bZ4wSFE3qJ6WT3i_-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="20-5bZ4wSFE3qJ6WT3i_-1" target="i9M5i_NloY1BFhhzf5Hy-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="20-5bZ4wSFE3qJ6WT3i_-1" value="语音播报模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="360" width="120" height="60" as="geometry" />
         </mxCell>
