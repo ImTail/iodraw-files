@@ -30,10 +30,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="i9M5i_NloY1BFhhzf5Hy-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="i9M5i_NloY1BFhhzf5Hy-3" target="i9M5i_NloY1BFhhzf5Hy-8" edge="1">
+        <mxCell id="i9M5i_NloY1BFhhzf5Hy-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" target="i9M5i_NloY1BFhhzf5Hy-8" edge="1">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="360" as="sourcePoint" />
+            <mxPoint x="450" y="235" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="420" y="235" />
+              <mxPoint x="400" y="235" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -52,6 +54,9 @@
           <mxGeometry x="0.0889" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="20-5bZ4wSFE3qJ6WT3i_-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="i9M5i_NloY1BFhhzf5Hy-3" target="20-5bZ4wSFE3qJ6WT3i_-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="i9M5i_NloY1BFhhzf5Hy-3" value="STM32" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="330" y="360" width="120" height="60" as="geometry" />
@@ -156,6 +161,9 @@
         </mxCell>
         <mxCell id="i9M5i_NloY1BFhhzf5Hy-47" value="上位机" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=40;" parent="1" vertex="1">
           <mxGeometry x="70" y="730" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="20-5bZ4wSFE3qJ6WT3i_-1" value="STM32" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="360" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
